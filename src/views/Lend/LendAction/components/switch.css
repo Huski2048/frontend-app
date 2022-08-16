@@ -1,0 +1,9 @@
+.react-switch {
+  vertical-align: middle;
+  margin-left: 4px;
+}
+
+.react-switch-handle {
+  height: 230px!important;
+  width: 54px!important;
+}
